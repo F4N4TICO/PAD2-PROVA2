@@ -6,7 +6,7 @@ export const Container = styled.TouchableOpacity`
   width: 100%;
   background: #fff;
   border-radius: 10px;
-  padding: 0 12px;
+  padding: 0 15px;
 `
 
 export const Header = styled.View`
@@ -23,7 +23,7 @@ export const Title = styled.Text`
 
 export const Content = styled.Text`
   margin-top: 10px;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.7);
   font-weight: 300;
   font-size: 14px;
 `
